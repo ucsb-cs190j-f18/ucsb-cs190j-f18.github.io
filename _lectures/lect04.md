@@ -1,69 +1,39 @@
 ---
 num: "Lecture 4"
-desc: "Practice with 1-1 explanations (Diba)"
+desc: "Assisting students on Programming Assignments (Diba)"
 ready: true
-date: 2018-04-26 9:30:00.00-8:00
+date: 2018-10-26 9:30:00.00-8:00
 ---
 
-Assign Project 01 (one-on-one teaching observation)
-* Have you scheduled your observation with your instructor?
+## Goal
+The goal of this lecture is to allow you to have an authentic experience of "a student in the class" working on a programming assignment. We will simulate the experience of students and tutors in lab sections and discuss effective ways of helping students when they get stuck on programming assignments.
+
+## Lesson plan
+
+* Bring your laptop to class
+* We will use one of the programming projects in CS8 as the basis for this lecture. Here is a link to the lab writeup:
+[CS8 Forest lab](https://ucsb-cs8-f17.github.io/lab/project01/)
+* Starter code for the project is available at this repo: [https://github.com/ucsb-cs190j-s18/lec05-starter-code](https://github.com/ucsb-cs190j-s18/lec05-starter-code)
+
+* Divide into two groups as per the assignements below and follow the instructions provided
+
+## Group A (CS8 Students)
+
+Matthew,  Andrew, G, Diego, Yifan
+
+Group A assume the role of students in the class. In the next 20-40 minutes, you should try to get as far as you can with the assignment (by actually doing it) until you get stuck. When you do write your question on the sheet given to you and then raise your hand. A "tutor" will come to you for help. After you had the interaction, write down your observations about the interaction - specifically what did the tutor do? Did the tutor answer your question adequately? Write any other observations that we can later discuss, then proceed with completing the rest of the assignment until you get stuck again. As you do the assignment, try to put yourself in the shoes of the student as much as possible.
 
 
-Practicing 1-on-1 explanations 
+## Group B (Tutors)
 
-# Flashcard Topics
-
-* Explain the different uses of const in C++
-* How do I define a Python function?
-* What is all this unit testing stuff?
-* Explain return vs. print
-* Explain the git workflow add/commit/push
-* Why use git at all?
-* Explain C++ pointers
-* Explain recursion
-* Help - I don't understand all that command line stuff
-* How do Makefiles work?
-* What are .o files?
-* Explain  member functions and variables in C++ 
-* Explain the use of . vs ->
-* Re-explain reference vs de-referencing (& vs * ) and different use cases
-* How can I access a private member variable in a member function? Don't I need to declare it?
-* Why would a function be void?
-* Why do I need to compile my code everytime?
-* What is the difference between .h and .cpp files
-
-# Tips for promoting discussion
-
-* Get on the same page: Ask: What is the goal?
-* Start with a common experience or analogy
-* Rephrase the question (specially if the question is unclear)
-* Start by asking a question to contextualize the question
-* Ask the student a question during your explanation, phrase your question as "How does the idea that ______ apply to ______ ?
-* Ask the student to describe their problem using a diagram
-* Visualize the problem for the student on the whiteboard
-* Express your own curiosity - say "what if ....", wonder
-* Start your explanation with an example problem
-* Ask a question to clarify the problem
-* Ask a general question during your explanation, such as "How do you feel about this?" or "How does this look to you?
-* Be sensitive to confusion - pause if you feel the student is lost 
-* Build on the other's response to increase their motivation
+Keith, Andrew Z, Annan Z, Patrick
 
 
-The two main goals for this session are:
-* practice explaining concepts in different ways
-* explore important elements of one-on-one interaction with student 
-(we will specifically focus on how to engage with students and promote discussion using a few techniques)
+* Group B assume the role of tutors. In the next 20-40 minutes, do what you normally do to prepare for your lab sections keeping in mind that this time the instructor made the lab available in the last hour and you have limited time. In an ideal world you would have done this preparation at least a day in advance of the actual lab. Assume you are in the actual lab, so be prepared to help students as soon as you get the first question. Conduct yourself as you normally do in the labs. After your interaction, take a few moments to write down your observations - What was the students question? How did you respond? Did you use a specific strategy - what was it?
 
+* We will take a break to discuss your observations from this activity and go over the tips in [this handout](http://csteachingtips.org/tips-for-tutors)
 
-To practice, we will play a game with flash cards
-* Break into small group
-* Individuals take turns explaining the same concept to one other person in the group
-* In the first round focus on explaining the same problem in different ways. Observe others and take notes about their explanation.
-* In the second round, repeat the same process as before and with the same topic. The person explaining a concept should additionally pick a "Tip card" and try to incorporate the tip in their interaction. 
-* Debrief
+* We will then play one more round!
 
-# Scenarios to contextualize questions
-
-We will wrap up the class with a debrief. Students will also be asked to provide a context for each of the questions on the flashcards. We'll use these scenarios in our activities for next class.
 
 

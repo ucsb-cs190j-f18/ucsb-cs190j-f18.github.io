@@ -1,10 +1,7 @@
 ---
 num: "Lecture 8"
-desc: "Lightning talks (continued)"
+desc: "UNIVERSITY HOLIDAY: NO CLASS"
 ready: true
-date: 2018-05-26 9:30:00.00-8:00
+date: 2018-11-23 
 ---
 
-
- * CS16 presenting to CS8 in HFH1132, Richert and Diba 45 min
- * CS56 presenting to CS24 Phill HFH1152
