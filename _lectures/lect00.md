@@ -1,6 +1,6 @@
 ---
 num: "Lecture 0"
-desc: "Orientation to the course(Diba)"
+desc: "Orientation to the course (Phill)"
 ready: true
 date: 2018-09-28 9:30:00.00-8:00
 ---
