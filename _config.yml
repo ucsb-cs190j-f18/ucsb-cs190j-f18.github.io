@@ -1,42 +1,39 @@
 
 course: "CS190J"
-qtr: "S18"
-quarter: "Spring 2018"
+qtr: "F18"
+quarter: "Fall 2018"
 ta_list: ""
 ta_list_full: ""
 instructor: "Mirza,Conrad,Wang"
 piazza: https://piazza.com/class/tbd
 
-github_url: https://github.com/ucsb-cs190j-s18/ucsb-cs190j-s18.github.io
-course_site: https://ucsb-cs190j-s18.github.io
+github_url: https://github.com/ucsb-cs190j-f18/ucsb-cs190j-f18.github.io
+course_site: https://ucsb-cs190j-f18.github.io
 
 
-start_week: 1
-start_date: 2018-04-01 00:00:00.00-7:00
+start_week: 0
+start_date: 2018-09-23 00:00:00.00-7:00
 num_weeks: 10
 extra_exam_week: true
 
 
 cal_dates: >
   [
-  {"label":"First day of Spring Quarter", "date":"2018-04-02" },
-  {"label":"Univ Holiday", "date":"2018-05-28" },
-  {"label":"Last day of instruction", "date":"2018-06-08" },
-  {"label":"Finals Begin", "date":"2018-06-09" },
-  {"label":"Finals End", "date":"2018-06-09" },
-  {"label":"Last day to drop (11pm)", "date":"2018-04-27" },	
+   {"label":"First day of instruction", "date":"2018-09-27" },
+   {"label":"Univ Holiday", "date":"2018-11-12" },
+   {"label":"Univ Holiday", "date":"2018-11-22" },
+   {"label":"Univ Holiday", "date":"2018-11-23" },
+   {"label":"Last day of instruction", "date":"2018-12-07" },
+   {"label":"Finals Begin", "date":"2018-12-08" },
+   {"label":"Finals End", "date":"2018-12-15" }
   ]
-
-
 
 kramdown:
    parse_block_html: true
    default_lang: python
 
-
 exclude:
    - vendor
-
 
 timezone: America/Los_Angeles
 
