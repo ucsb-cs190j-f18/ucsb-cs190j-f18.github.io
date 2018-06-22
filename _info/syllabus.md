@@ -1,5 +1,5 @@
 ---
-title: "Syllabus, CMPSC 190J, Spring 2018"
+title: "Syllabus, CMPSC 190J, Fall 2018"
 layout: handout
 ready: false
 ---
@@ -7,18 +7,18 @@ ready: false
 Basic Facts
 -----------
 
-* **Course Web Site**: <http://ucsb-cs190j-s18.github.io>
-* **Instructors**: Phill Conrad, Diba Mirza, Richert Wang
+* **Course Web Site**: <http://ucsb-cs190j-f18.github.io>
+* **Instructors**: Diba Mirza, Phill Conrad, Richert Wang
 
-* **Lecture**: R 9:30-10:45am HFH 1132, ATTENDANCE REQUIRED.
+* **Lecture**: Friday 2p-3:15pm HFH 1132, ATTENDANCE REQUIRED.
 * **Discussion Section**.  5 hours of discussion section, negotiated with your supervising instructor, in service to the course to which you are assigned.   The actual time might not correspond to the one listed on GOLD.   The time will be some combination of service during your courses discussion sections, and/or service during open labs hours.   The open lab hours are shared across the four courses.
 
 | Course   | Number<br> of CS190J mentors | Supervising <br> Instructor | Official<br> Discussion Time<br> on GOLD | Actual<br> Course Discussion Section <br> Times | Weekly Meeting |
 |----------|----------------|--------------------|------------------|-------------------------------------------------|-|
-| CMPSC 8  | 3 | Phill Conrad    | Mon 9am - 11:50am  | Mon 8am-11:50am  | TBD: Ask PHILL |
-| CMPSC 16 | 6 | Diba Mirza     | Tue 1pm - 03:50am | Tue 11am-2:50pm  |  Tue 3pm - 4pm |
-| CMPSC 24 | 5 | Diba Mirza     | Tue 2pm - 4:50pm  | Tue 3pm-6:50pm  | Tue 2pm - 3pm |
-| CMPSC 32 | 4 | Richert Wang  | Wed 4pm - 6:50pm   | Wed Noon-3:50pm   | TBD: Ask RICHERT |
+| CMPSC 8  | tbd | Diba Mirza    | Wed 9am - 11:50am  | Wed 9am-12:50am  | TBD |
+| CMPSC 16 | tbd | Diba Mirza     | Wed 2pm - 04:50pm | Wed 1pm-4:50pm  |  TBD |
+| CMPSC 32 | tbd | Richert Wang  | Mon 12pm - 2:50pm   | Mon 12pm-3:50pm   | TBD |
+| CMPSC 56 | tbd | Phill Conrad     | Thu 5pm - 7:50pm  | Wed 5pm-7:50pm  | TBD |
 
 The three instructors and the students in the course should coordinate their scheduled open labs times so as to ensure that there is coverage across the courses, and that the lab does not become overcrowded.
 
@@ -105,13 +105,12 @@ CMPSC 8 is usually the first CS course that students take at UCSB. The mentors i
 
 The mentors will assist students during the CS 8 lab sections, while they work on their programming assignments, provide feedback on student code and homework, hold office hours to assist students and review student work on exams. Mentors will also be involved with creating collaborative study guides and assisting with study sessions prior to exams.
 
-# Mentoring in the context of CMPSC 16/24
+# Mentoring in the context of CMPSC 16
 
 In CS 16 students are expected to solidify their foundations in programming by revisiting key programming constructs (functions, control structures - loops and conditionals etc) in the context of C++). By working in a compiled language, students also learn about basic computer organization, and the hardware software interface. By the end of the course, students are expected to be comfortable working in a unix environment and developing C-style programs in C++ (procedural rather than OO). Key new concepts include pointers, references and memory management in C++. Through practice, students should become more comfortable with debugging code independently, and using techniques to develop accurate programs. Finally, students will learn about git and intergrate it into their workflow.
 
-In CS 24, students learn about OOP, data structures (linked-lists, trees, stacks, queues, heaps) and the mathematical framework (Big O) to analyze the complexity of their algorithms. Other skills students need to develop are working with github (this may be completely new to some), debuggers (gdb) and Makefiles.
 
-As a CS16/24 mentor, your duties include:
+As a CS16 mentor, your duties include:
 
 1. Preparing (very thoroughly) for each lab/assignement before your lab section
 2. Interacting one-on-one with students in section and open lab hours to assist with programming. Your role is to identify gaps in student understanding and help develop key faculties and techniques needed for programming. In your interactions you should strive to be supportive and non-judgemental. 
@@ -137,3 +136,29 @@ CS 32 mentors are expected to:
 3. Hold open lab hours where you can provide personal attention to students who seek additional assistance
 4. Browse Piazza and help answer questions posted by students
 5. Attend weekly mentor meetings to provide your observations and feedback on students' experience and struggles
+
+
+# Mentoring in the context of CMPSC 56
+
+Each CS56 mentor will be typically assigned to 4 pairs of students (8 students) that will be their "team".  They will also be associated with a team of fellow mentors under the supervision of a lead.  The lead will be either a TA, or an experience mentor assisted by a Reader.  (Only TAs and Readers have final grading responsibilties.)
+
+The chief duties of CS56 mentors are:
+
+1. Curation of six legacy project repos.
+   * This involves getting the repos ready for students to work on them.  Details [here](https://ucsb-cs56-pconrad-mentors.github.io/topics/curation_quick_checklist/) and [here](https://ucsb-cs56-pconrad-mentors.github.io/topics/curation_start_of_course/)
+   * Anticipated schedule: two by Thursday of week 2, two more by Monday of week 3, two more by Monday of week 4.
+2.  Going through labs before class (when available) to help uncover possible problem areas.
+3.  Helping students with labs during discussion sections and open labs hours
+4.  Providing code review of certain specific labs, legacy code project issues
+5.  General guidance of the legacy code project process, meaning helping to guide the design of the software towards good practices, and helping students manage the issues, pull requests, etc.
+6.  Serving as role models and sources of information and inspiration for the students in the course
+7.  Service roles---helping with improving curriculum, proctoring exams, and other occasionally administrative tasks, etc. where called upon.
+
+More information on mentor responsibilities for CS56 can be found at these links:
+
+* <https://ucsb-cs56-pconrad-mentors.github.io/topics/CS56_mentor_overview/>
+* <https://ucsb-cs56-pconrad-mentors.github.io/>
+
+
+
+
