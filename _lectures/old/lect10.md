@@ -1,9 +1,9 @@
 ---
 num: "Lecture 10"
-desc: "Retrospective"
+desc: "Wrap up (Phill)"
 ready: false
 date: 2018-12-07 
 ---
 
-* Retrospective
+* Wrap up (Phill)
 * Course evals
