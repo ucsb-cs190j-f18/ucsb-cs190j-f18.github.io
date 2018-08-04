@@ -1,5 +1,7 @@
 
 course: "CS190J"
+course_main: "UCSB Teaching CS"
+course_main_url: "https://ucsb-teaching-cs.github.io"
 qtr: "F18"
 quarter: "Fall 2018"
 ta_list: ""
