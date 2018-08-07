@@ -1,9 +1,10 @@
 ---
-title: CS190J, Winter 2018, pconrad, dmirza
+title: CS190J, Fall 2018
 ---
 
 # {{site.course}}, {{site.quarter}}
 
+## {{site.title}}
 
 <div id="info" data-role="collapsible" data-collapsed="false">
 <h2>Course Information</h2>
