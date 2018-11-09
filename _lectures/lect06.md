@@ -13,6 +13,8 @@ The students got in groups of three or four.
 
 Each group was asked to work, individually and silently, on creating new cards for the game *from the perspective of tutors in the UCSB CS tutor program*, rather than from the perspective of CS faculty.
 
+NOTE: I did *not* do this, but i should have asked them to mark the card as intended for "round 1" (general teaching/learning) or "round 2" (diversity/inclusion/bias related).
+
 # 30 minutes: group work
 
 Each group was asked to put all of their new cards in a pile.  
